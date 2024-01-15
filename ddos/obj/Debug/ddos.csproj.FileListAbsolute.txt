@@ -1,0 +1,12 @@
+C:\Users\-\source\repos\ddos\ddos\bin\Debug\ddos.exe
+C:\Users\-\source\repos\ddos\ddos\bin\Debug\ddos.pdb
+C:\Users\-\source\repos\ddos\ddos\obj\Debug\ddos.csproj.AssemblyReference.cache
+C:\Users\-\source\repos\ddos\ddos\obj\Debug\ddos.csproj.CoreCompileInputs.cache
+C:\Users\-\source\repos\ddos\ddos\obj\Debug\ddos.exe
+C:\Users\-\source\repos\ddos\ddos\obj\Debug\ddos.pdb
+C:\Users\D\Desktop\ddos\ddos\bin\Debug\ddos.exe
+C:\Users\D\Desktop\ddos\ddos\bin\Debug\ddos.pdb
+C:\Users\D\Desktop\ddos\ddos\obj\Debug\ddos.csproj.AssemblyReference.cache
+C:\Users\D\Desktop\ddos\ddos\obj\Debug\ddos.csproj.CoreCompileInputs.cache
+C:\Users\D\Desktop\ddos\ddos\obj\Debug\ddos.exe
+C:\Users\D\Desktop\ddos\ddos\obj\Debug\ddos.pdb
