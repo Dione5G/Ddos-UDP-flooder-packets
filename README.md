@@ -5,6 +5,6 @@ example:
 
  DDos UDP FLOODER PACKETS by: Dione4G
 
-   > Insert IP: 192.168.1.10
-   > Insert Port: 80
-   > Amount from 3 to 7: 7
+Insert IP: 192.168.1.10 (press Enter)
+Insert Port: 80 (press Enter)
+Amount from 3 to 7: 7 (press Enter)
